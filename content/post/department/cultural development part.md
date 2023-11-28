@@ -1,5 +1,5 @@
 ---
-title: "Study and academic research part"
+title: "cultural development part"
 description: ""
 tags: [
     "Department",
