@@ -30,29 +30,11 @@ defaultContentLanguage = "en"           # Default language to use
   filename = "sitemap.xml"
 
 [[menu.main]]             # config your menu              # 配置目录
-  name = "This is Home"
+  name = "Welcome to gamma college's website"
   weight = 10
   identifier = "home"
   pageref = "/"
-[[menu.main]]
-  name = "Archives"
-  weight = 20
-  identifier = "archives"
-  pageref = "/post/"
-[[menu.main]]
-  name = "Tags"
-  weight = 30
-  identifier = "tags"
-  pageref = "/tags/"
-[[menu.main]]
-  name = "Categories"
-  weight = 40
-  identifier = "categories"
-  pageref = "/categories/"
-[[menu.main]]
-  name = "external-link"
-  weight = 50
-  pageref = "https://gohugo.io"
+
 
 
 [params]
