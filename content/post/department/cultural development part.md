@@ -12,7 +12,7 @@ categories: [
 menu:
   main:
     parent: "department"
-    weight: 2
+    weight: 3
 ---
 
 ## Introduction

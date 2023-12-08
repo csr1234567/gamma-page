@@ -29,7 +29,7 @@ Third, we want to give our undergraduates the access to use the Chatgpt, which i
 
 ## question solving
 
-
+* [discussing questions](https://github.com/csr1234567/gamma-page/issues)
 
 
 ## learning materials
@@ -39,3 +39,6 @@ Third, we want to give our undergraduates the access to use the Chatgpt, which i
 
 
 ## chatgpt
+
+* [WestlakeChat](https://yanglab.westlake.edu.cn/chat)
+The Chatgpt we use is the Chatgpt designed by our dean's lab, Jian Yang's lab.

@@ -1,11 +1,10 @@
 ---
-title: "Jane 主题预览"
-date: 2018-03-06T16:01:23+08:00
-lastmod: 2018-03-07T16:01:23+08:00
+title: "Introduction to gamma college"
+date: 2023-12-08
+lastmod: 2023-12-08T16:01:23+08:00
 draft: false
-tags: ["preview", "shortcodes", "tag-6"]
 categories: ["shortcodes", "index"]
-author: "Typora"
+author: "虾兵蟹将信息小组"
 
 weight: 1
 
@@ -20,4 +19,14 @@ contentCopyright: '<a href="https://github.com/gohugoio/hugoBasicExample" rel="n
 mathjax: true
 ---
 
-主题预览,内容有待填充。
+## Introduction of this website
+
+Our group wants to have a website to promote students’ motivation to participate in activities, study and cultural development of our college. Therefore, we aim to make a website for a gamma college.
+
+## gamma college's icon
+
+![gamma college's icon](/image/2.jpg)
+
+## gamma college's mascot
+
+![gamma college's mascot](/image/3.jpg)
