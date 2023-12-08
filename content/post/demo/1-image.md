@@ -23,7 +23,7 @@ This is an image in `static/image` folder.
 ```markdown
 ![This is an image in `static/image` folder.](/image/example.jpg)
 ```
-![abc](/image/1.jpg)
+![abc](/static/image/1.jpg)
 <!--more-->
 
 ## `{{</* figure */>}}` shortcode
