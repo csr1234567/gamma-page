@@ -5,7 +5,7 @@ lastmod: 2023-11-20T16:01:23+08:00
 draft: false
 tags: ["preview", "shortcodes", "tag-6"]
 categories: ["docs", "shortcodes", "index"]
-author: "Typora"
+author: "Gamma SDC"
 
 weight: 1
 
